@@ -2,7 +2,7 @@
 <h1 align="center">¡Hola! 👋, Soy Jesús Udiz</h1>
 <h3 align="center">Un apasionado desarrollador FullStack</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesusudiz&label=Vistas%20de%20perfil&color=0e75b6&style=flat" alt="jesusudiz" /> </p>
-🔭 Actualmente estoy trabajando en Beautify
+🔭 Mi ultimo proyecto fue trabajando en la construccion de una App llamada Beautify.
 
 📫 Cómo contactarme udizjesus@gmail.com
 
