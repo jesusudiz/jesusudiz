@@ -3,7 +3,10 @@
 <h3 align="center">Un apasionado desarrollador FullStack</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesusudiz&label=Vistas%20de%20perfil&color=0e75b6&style=flat" alt="jesusudiz" /> </p>
 🔭 Mi ultimo proyecto fue trabajando en la construccion de una App llamada Beautify.
-
+<h3 align="left">¿Que Hago?</h3>
+<p align="left">Me preocupo por mantenerme en constante formación y aprendizaje, constantemente me mantengo realizando proyectos personales utilizando las habilidades tecnológicas que ya domino y que voy aprendiendo. </p>
+<h3 align="left">¿A donde me dirijo?</h3>
+<p align="left">Mi meta es ser parte activa de las transformaciones que están por venir en el mundo, y deseo lograrlo a través de mi conocimiento en programación. Experimentar la satisfacción de contribuir positivamente a través de la tecnología y presenciar cómo va mejorando el mundo. Es algo que me impulsa y motiva en mi camino como desarrollador. </p>
 📫 Cómo contactarme udizjesus@gmail.com
 
 <h3 align="left">Conéctate conmigo:</h3>
