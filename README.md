@@ -2,7 +2,7 @@
 <h1 align="center">¡Hola! 👋, Soy Jesús Udiz</h1>
 <h3 align="center">Un apasionado desarrollador FullStack</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jesusudiz&label=Vistas%20de%20perfil&color=0e75b6&style=flat" alt="jesusudiz" /> </p>
-🔭 Mi último proyecto fue trabajando en la construcción de una App llamada [Beautify](https://main--transcendent-puffpuff-9a3f80.netlify.app/)
+🔭 Mi último proyecto fue trabajando en la construcción de una App llamada <a href:"https://main--transcendent-puffpuff-9a3f80.netlify.app/" target="blank">Beautify</a>
 
 
 <h3 align="left">¿Que Hago?</h3>
